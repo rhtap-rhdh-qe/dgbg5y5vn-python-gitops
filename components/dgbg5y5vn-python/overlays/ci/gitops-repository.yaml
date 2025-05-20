@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dgbg5y5vn-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dgbg5y5vn-python-gitops
